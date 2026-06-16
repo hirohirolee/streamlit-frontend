@@ -5,7 +5,7 @@ import requests
 st.set_page_config(
     page_title="Matrix Portal - Hiro's AI & Data Hub",
     page_icon="🚀",
-    layout="centered"
+    layout="wide"
 )
 
 # 標題與介紹
